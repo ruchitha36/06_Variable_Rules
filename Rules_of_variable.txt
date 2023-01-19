@@ -11,5 +11,3 @@ Rules of a variable:
 8) A variable can start with underscore _ Symbol
 9) Except underscore other symbols are not allowed.
 10) A variable should not a space between them.
-
-
